@@ -1,9 +1,5 @@
 Hi there 👋, <h1>I'm Venkata Shyam Manukonda</h1>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/88102392/204908204-a1519349-9d9e-4eb2-9e12-356a4216839e.gif">
-<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/88102392/204908204-a1519349-9d9e-4eb2-9e12-356a4216839e.gif">
-<img alt="GIF of a coding cat" src="https://user-images.githubusercontent.com/88102392/204908204-a1519349-9d9e-4eb2-9e12-356a4216839e.gif">
-</picture>
+
 
 I'm a recent Computer Science graduate with a passion for building end-to-end solutions. I enjoy tackling complex problems and turning ideas into reality through code.
 
