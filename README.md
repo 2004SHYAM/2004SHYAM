@@ -30,4 +30,4 @@ My Pinned Repositories
 C-language: A collection of my practice programs and projects written in C.
 
 java_programming: A repository showcasing my solutions to various coding problems using Java.
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="venkata-shayam-manukonda-85b01727a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/venkata-shayam-manukonda-85b01727a?trk=profile-badge">Venkata Shayam Manukonda</a></div>
+
