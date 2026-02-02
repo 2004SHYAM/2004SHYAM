@@ -37,6 +37,7 @@ class Shyam {
         return "Design, build, and scale reliable software systems";
     }
 }
+```
 
 🔍 What I’m Focused On
 
@@ -103,7 +104,5 @@ Multicloud Network Associate (Aviatrix)
 
 🤝 Connect With Me
 <p> <a href="https://github.com/2004SHYAM"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> <a href="mailto:venkatshyam2004@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=2004SHYAM&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=2004SHYAM&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004SHYAM&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🐍 Contribution Activity
-<p align="center"> <img src="https://github.com/2004SHYAM/2004SHYAM/blob/output/github-contribution-grid-snake.svg" /> </p>
+
+
