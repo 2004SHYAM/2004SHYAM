@@ -4,10 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AWS+Certified+Developer;Computer+Science+Engineer;Building+Scalable+Software" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2004SHYAM&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/2004SHYAM?label=Followers&style=flat&color=0e75b6" />
-</p>
+
 
 ---
 
